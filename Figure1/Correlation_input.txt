@@ -1,0 +1,17 @@
+ID	Outter_track	From	To	r_value	abs_r_value	Directions	Significant
+1	Treatment	Bacteria1	disease1	0.65	0.65	Positive	YES
+2	Treatment	Bacteria2	disease1	0.025	0.025	Positive	NO
+3	Treatment	Bacteria3	disease1	-0.05	0.05	Negative	NO
+4	Treatment	Bacteria4	disease1	0.69	0.69	Positive	YES
+5	Control	Bacteria1.	disease1	0.306	0.306	Positive	NO
+6	Control	Bacteria2.	disease1	-0.503	0.503	Positive	NO
+7	Control	Bacteria3.	disease1	0.11	0.11	Positive	NO
+8	Control	Bacteria4.	disease1	-0.314	0.314	Negative	NO
+9	Treatment	Bacteria1	disease2	-0.103	0.103	Negative	NO
+10	Treatment	Bacteria2	disease2	0.188	0.188	Positive	NO
+11	Treatment	Bacteria3	disease2	0.927	0.927	Positive	YES
+12	Treatment	Bacteria4	disease2	0.536	0.536	Positive	NO
+13	Control	Bacteria1.	disease2	-0.75	0.75	Negative	YES
+14	Control	Bacteria2.	disease2	0.857	0.857	Positive	YES
+15	Control	Bacteria3.	disease2	0.464	0.464	Positive	NO
+16	Control	Bacteria4.	disease2	0.357	0.357	Positive	NO
